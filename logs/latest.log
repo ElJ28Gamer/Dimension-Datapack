@@ -1,208 +1,25 @@
-[23:50:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[23:50:27] [ServerMain/ERROR]: Couldn't load file/escape pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
-[23:50:27] [ServerMain/INFO]: Found new data pack file/escape, loading it automatically
-[23:50:34] [ServerMain/INFO]: Loaded 1461 recipes
-[23:50:34] [ServerMain/INFO]: Loaded 1574 advancements
-[23:50:34] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[23:50:34] [Server thread/INFO]: Loading properties
-[23:50:34] [Server thread/INFO]: Default game type: ADVENTURE
-[23:50:34] [Server thread/INFO]: Generating keypair
-[23:50:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:50:35] [Server thread/INFO]: Using default channel type
-[23:50:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:50:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:50:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:50:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:50:35] [Server thread/INFO]: Preparing level "world"
-[23:50:36] [Server thread/INFO]: Loading 0 persistent chunks...
-[23:50:36] [Server thread/INFO]: Preparing spawn area: 100%
-[23:50:36] [Server thread/INFO]: Time elapsed: 20 ms
-[23:50:36] [Server thread/INFO]: Done (0.886s)! For help, type "help"
-[23:50:53] [Server thread/INFO]: ElJ28Gamer[/127.0.0.1:52385] logged in with entity id 93 at (-20.480622378284075, 93.40760143312642, -36.51756941297667)
-[23:50:53] [Server thread/INFO]: ElJ28Gamer joined the game
-[23:50:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[23:51:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[23:52:10] [Server thread/INFO]: [ElJ28Gamer: Teleported ElJ28Gamer to -20.480622, 93.407601, -36.517569]
-[23:52:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
-[23:52:42] [Server thread/INFO]: ElJ28Gamer has made the advancement [Monster Hunter]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Who is Cutting Onions?]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [You've Got a Friend in Me]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has completed the challenge [With Our Powers Combined!]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Country Lode, Take Me Home]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Suit Up]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Smithing with Style]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Minecraft: Trial(s) Edition]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Free the End]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Glow and Behold!]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Bring Home the Beacon]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Not Today, Thank You]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [When the Squad Hops into Town]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Isn't It Iron Pick]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has completed the challenge [The Whole Pack]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Local Brewery]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has reached the goal [The Next Generation]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Fishy Business]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Hot Tourist Destinations]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Over-Overkill]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [This Boat Has Legs]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Great View From Up Here]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has completed the challenge [How Did We Get Here?]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Bullseye]
-[23:52:50] [Server thread/INFO]: ElJ28Gamer has made the advancement [Stone Age]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Two Birds, One Arrow]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [We Need to Go Deeper]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Who's the Pillager Now?]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Into Fire]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Take Aim]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Total Beelocation]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Arbalistic]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Under Lock and Key]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Acquire Hardware]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Not Quite "Nine" Lives]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has reached the goal [Revaulting]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Cover Me with Diamonds]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Bukkit Bukkit]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Wax Off]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has reached the goal [Hired Help]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Sweet Dreams]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has reached the goal [You Need a Mint]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Monsters Hunted]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Enchanter]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Voluntary Exile]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Is It a Bird?]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has reached the goal [Postmortal]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Birthday Song]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Is It a Plane?]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Star Trader]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Wax On]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Sound of Music]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Hero of the Village]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Hidden in the Depths]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has reached the goal [Beaconator]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Bee Our Guest]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [What a Deal!]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Is It a Balloon?]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Crafting a New Look]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Uneasy Alliance]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [The Healing Power of Friendship!]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [A Throwaway Joke]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Sticky Situation]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [Ol' Betsy]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Cover Me in Debris]
-[23:52:51] [Server thread/INFO]: ElJ28Gamer has made the advancement [The Parrots and the Bats]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Blowback]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has completed the challenge [A Complete Catalogue]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Oh Shiny]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Good as New]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Very Very Frightening]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Hot Stuff]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Stay Hydrated!]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Whatever Floats Your Goat!]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Surge Protector]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has completed the challenge [A Furious Cocktail]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Best Friends Forever]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Careful Restoration]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has completed the challenge [It Spreads]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Caves & Cliffs]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Shear Brilliance]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Sniper Duel]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Spooky Scary Skeleton]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Two by Two]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Getting an Upgrade]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Light as a Rabbit]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Tactical Fishing]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Respecting the Remnants]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has reached the goal [Zombie Doctor]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Little Sniffs]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [The City at the End of the Game]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Ice Bucket Challenge]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Remote Getaway]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [War Pigs]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Lighten Up]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has reached the goal [The End... Again...]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has reached the goal [Sky's the Limit]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Sneak 100]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Return to Sender]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Heart Transplanter]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Smells Interesting]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Eye Spy]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Serious Dedication]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Isn't It Scute?]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has made the advancement [Planting the Past]
-[23:52:52] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Adventuring Time]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has made the advancement [A Seedy Place]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has made the advancement [Those Were the Days]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has made the advancement [The Cutest Predator]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has made the advancement [Feels Like Home]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has made the advancement [Withering Heights]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has completed the challenge [A Balanced Diet]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has completed the challenge [Subspace Bubble]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has made the advancement [The Power of Books]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has made the advancement [Diamonds!]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has made the advancement [A Terrible Fortress]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has made the advancement [Crafters Crafting Crafters]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has made the advancement [The End?]
-[23:52:53] [Server thread/INFO]: ElJ28Gamer has made the advancement [Who Needs Rockets?]
-[23:52:53] [Server thread/INFO]: [ElJ28Gamer: Granted 1574 advancements to ElJ28Gamer]
-[23:52:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
-[23:53:37] [Server thread/INFO]: [ElJ28Gamer: Gamerule doMobSpawning is now set to: false]
-[23:53:45] [Server thread/INFO]: [ElJ28Gamer: Gamerule doMobLoot is now set to: false]
-[23:53:57] [Server thread/INFO]: [ElJ28Gamer: Killed 59 entities]
-[23:53:58] [Server thread/INFO]: [ElJ28Gamer: Killed 108 entities]
-[23:54:00] [Server thread/INFO]: [ElJ28Gamer: Killed 182 entities]
-[23:54:26] [Server thread/INFO]: ElJ28Gamer lost connection: Disconnected
-[23:54:26] [Server thread/INFO]: ElJ28Gamer left the game
-[23:54:30] [Netty Server IO #4/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
-	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
-	at wz.a(SourceFile:26) [server-1.21.10.jar:?]
-	at wz.encode(SourceFile:12) [server-1.21.10.jar:?]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) [netty-codec-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at wk$2.write(SourceFile:524) [server-1.21.10.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at wk.c(SourceFile:350) [server-1.21.10.jar:?]
-	at wk.b(SourceFile:342) [server-1.21.10.jar:?]
-	at wk.a(SourceFile:324) [server-1.21.10.jar:?]
-	at wk.a(SourceFile:318) [server-1.21.10.jar:?]
-	at wk.exceptionCaught(SourceFile:169) [server-1.21.10.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) [netty-common-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.118.Final.jar:4.1.118.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1447) [?:?]
-[23:54:48] [Server thread/INFO]: Stopping the server
-[23:54:48] [Server thread/INFO]: Stopping server
-[23:54:48] [Server thread/INFO]: Saving players
-[23:54:48] [Server thread/INFO]: Saving worlds
-[23:54:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:54:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/escape:test
-[23:54:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:54:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:54:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:54:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (test): All chunks are saved
-[23:54:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:54:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:54:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:49:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:49:28] [ServerMain/ERROR]: Couldn't load file/escape pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[18:49:30] [ServerMain/INFO]: Loaded 1461 recipes
+[18:49:30] [ServerMain/INFO]: Loaded 1574 advancements
+[18:49:31] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[18:49:31] [Server thread/INFO]: Loading properties
+[18:49:31] [Server thread/INFO]: Default game type: ADVENTURE
+[18:49:31] [Server thread/INFO]: Generating keypair
+[18:49:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:49:31] [Server thread/INFO]: Using default channel type
+[18:49:31] [Server thread/INFO]: Preparing level "world"
+[18:49:31] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:49:31] [Server thread/INFO]: Preparing spawn area: 100%
+[18:49:31] [Server thread/INFO]: Time elapsed: 22 ms
+[18:49:32] [Server thread/INFO]: Done (0.477s)! For help, type "help"
+[18:49:34] [User Authenticator #1/INFO]: UUID of player ElJ28Gamer is 77da0c9b-f45b-4ef0-a766-4e0fcb98c8ca
+[18:49:35] [Server thread/INFO]: ElJ28Gamer[/127.0.0.1:55378] logged in with entity id 86 at (-19.823047445511413, 70.90779718977033, -47.19676198952594)
+[18:49:35] [Server thread/INFO]: ElJ28Gamer joined the game
+[18:52:46] [Server thread/INFO]: [ElJ28Gamer: Running function escape:load]
+[18:52:50] [Server thread/INFO]: [ElJ28Gamer: Running function escape:tick]
+[18:52:53] [Server thread/ERROR]: Couldn't load file/escape pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[18:52:53] [Server thread/INFO]: [ElJ28Gamer: Reloading!]
+[18:52:55] [Server thread/INFO]: Loaded 1461 recipes
+[18:52:55] [Server thread/INFO]: Loaded 1574 advancements
+[18:54:56] [Server thread/INFO]: [ElJ28Gamer: Teleported ElJ28Gamer to 19.694526, 77.027149, -67.715208]
