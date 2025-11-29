@@ -1,25 +1,15 @@
-[18:49:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[18:49:28] [ServerMain/ERROR]: Couldn't load file/escape pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
-[18:49:30] [ServerMain/INFO]: Loaded 1461 recipes
-[18:49:30] [ServerMain/INFO]: Loaded 1574 advancements
-[18:49:31] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[18:49:31] [Server thread/INFO]: Loading properties
-[18:49:31] [Server thread/INFO]: Default game type: ADVENTURE
-[18:49:31] [Server thread/INFO]: Generating keypair
-[18:49:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:49:31] [Server thread/INFO]: Using default channel type
-[18:49:31] [Server thread/INFO]: Preparing level "world"
-[18:49:31] [Server thread/INFO]: Loading 0 persistent chunks...
-[18:49:31] [Server thread/INFO]: Preparing spawn area: 100%
-[18:49:31] [Server thread/INFO]: Time elapsed: 22 ms
-[18:49:32] [Server thread/INFO]: Done (0.477s)! For help, type "help"
-[18:49:34] [User Authenticator #1/INFO]: UUID of player ElJ28Gamer is 77da0c9b-f45b-4ef0-a766-4e0fcb98c8ca
-[18:49:35] [Server thread/INFO]: ElJ28Gamer[/127.0.0.1:55378] logged in with entity id 86 at (-19.823047445511413, 70.90779718977033, -47.19676198952594)
-[18:49:35] [Server thread/INFO]: ElJ28Gamer joined the game
-[18:52:46] [Server thread/INFO]: [ElJ28Gamer: Running function escape:load]
-[18:52:50] [Server thread/INFO]: [ElJ28Gamer: Running function escape:tick]
-[18:52:53] [Server thread/ERROR]: Couldn't load file/escape pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
-[18:52:53] [Server thread/INFO]: [ElJ28Gamer: Reloading!]
-[18:52:55] [Server thread/INFO]: Loaded 1461 recipes
-[18:52:55] [Server thread/INFO]: Loaded 1574 advancements
-[18:54:56] [Server thread/INFO]: [ElJ28Gamer: Teleported ElJ28Gamer to 19.694526, 77.027149, -67.715208]
+[18:58:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:58:21] [ServerMain/ERROR]: Couldn't load file/escape pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[18:58:24] [ServerMain/INFO]: Loaded 1461 recipes
+[18:58:24] [ServerMain/INFO]: Loaded 1574 advancements
+[18:58:24] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[18:58:24] [Server thread/INFO]: Loading properties
+[18:58:24] [Server thread/INFO]: Default game type: ADVENTURE
+[18:58:24] [Server thread/INFO]: Generating keypair
+[18:58:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:58:24] [Server thread/INFO]: Using default channel type
+[18:58:24] [Server thread/INFO]: Preparing level "world"
+[18:58:25] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:58:25] [Server thread/INFO]: Preparing spawn area: 100%
+[18:58:25] [Server thread/INFO]: Time elapsed: 33 ms
+[18:58:25] [Server thread/INFO]: Done (0.546s)! For help, type "help"
