@@ -8,7 +8,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-10-17 23:25:45 +0200",
-      "minecraft:stony_shore": "2025-11-29 18:52:00 +0100"
+      "minecraft:stony_shore": "2025-11-29 18:52:00 +0100",
+      "minecraft:plains": "2025-11-29 19:00:34 +0100"
     },
     "done": false
   },

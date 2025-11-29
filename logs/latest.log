@@ -1,15 +1,39 @@
-[18:58:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[18:58:21] [ServerMain/ERROR]: Couldn't load file/escape pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
-[18:58:24] [ServerMain/INFO]: Loaded 1461 recipes
-[18:58:24] [ServerMain/INFO]: Loaded 1574 advancements
-[18:58:24] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[18:58:24] [Server thread/INFO]: Loading properties
-[18:58:24] [Server thread/INFO]: Default game type: ADVENTURE
-[18:58:24] [Server thread/INFO]: Generating keypair
-[18:58:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:58:24] [Server thread/INFO]: Using default channel type
-[18:58:24] [Server thread/INFO]: Preparing level "world"
-[18:58:25] [Server thread/INFO]: Loading 0 persistent chunks...
-[18:58:25] [Server thread/INFO]: Preparing spawn area: 100%
-[18:58:25] [Server thread/INFO]: Time elapsed: 33 ms
-[18:58:25] [Server thread/INFO]: Done (0.546s)! For help, type "help"
+[19:00:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:00:19] [ServerMain/ERROR]: Couldn't load file/escape pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[19:00:23] [ServerMain/INFO]: Loaded 1461 recipes
+[19:00:23] [ServerMain/INFO]: Loaded 1574 advancements
+[19:00:23] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[19:00:23] [Server thread/INFO]: Loading properties
+[19:00:23] [Server thread/INFO]: Default game type: ADVENTURE
+[19:00:23] [Server thread/INFO]: Generating keypair
+[19:00:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:00:23] [Server thread/INFO]: Using default channel type
+[19:00:23] [Server thread/INFO]: Preparing level "world"
+[19:00:24] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:00:24] [Server thread/INFO]: Preparing spawn area: 100%
+[19:00:24] [Server thread/INFO]: Time elapsed: 38 ms
+[19:00:24] [Server thread/INFO]: Done (0.575s)! For help, type "help"
+[19:00:27] [User Authenticator #1/INFO]: UUID of player ElJ28Gamer is 77da0c9b-f45b-4ef0-a766-4e0fcb98c8ca
+[19:00:29] [Server thread/INFO]: ElJ28Gamer[/127.0.0.1:51727] logged in with entity id 13 at (19.694526215085173, 77.02714921534991, -67.71520806419983)
+[19:00:29] [Server thread/INFO]: ElJ28Gamer joined the game
+[19:00:34] [Server thread/INFO]: [ElJ28Gamer: Teleported ElJ28Gamer to 19.694526, 77.027149, -67.715208]
+[19:00:42] [Server thread/INFO]: [ElJ28Gamer: Saved the game]
+[19:00:47] [Server thread/ERROR]: Couldn't load file/escape pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[19:00:47] [Server thread/INFO]: [ElJ28Gamer: Reloading!]
+[19:00:48] [Server thread/INFO]: Loaded 1461 recipes
+[19:00:48] [Server thread/INFO]: Loaded 1574 advancements
+[19:04:58] [Server thread/INFO]: Stopping the server
+[19:04:58] [Server thread/INFO]: Stopping server
+[19:04:58] [Server thread/INFO]: Saving players
+[19:04:58] [Server thread/INFO]: ElJ28Gamer lost connection: Server closed
+[19:04:58] [Server thread/INFO]: ElJ28Gamer left the game
+[19:04:58] [Server thread/INFO]: Saving worlds
+[19:05:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:05:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/escape:test
+[19:05:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:05:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:05:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:05:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (test): All chunks are saved
+[19:05:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:05:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:05:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
