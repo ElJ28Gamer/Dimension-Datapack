@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:overworld",
+  "type": "minecraft:end",
   "generator": {
     "type": "minecraft:flat",
     "settings": {
