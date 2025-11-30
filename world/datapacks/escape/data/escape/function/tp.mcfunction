@@ -1,3 +1,3 @@
-tp @a[team=Bestia] ~ ~ ~ #Lugar de bestia
-tp @a[team=Corredores] ~ ~ ~ #Lugar de corredores
+tp @a[team=Bestia] ~ ~ ~
+tp @a[team=Corredores] ~ ~ ~
 function escape:mapstart
