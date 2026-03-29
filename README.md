@@ -1,2 +1,1 @@
-**This is a test**
-*test*
+**This Minecraft map is still under development, report any bugs**
