@@ -5,3 +5,7 @@ logs/
 libraries/
 usercache.json
 ops.json
+banned-ips.json
+banned-players.json
+whitelist.json
+START.bat
