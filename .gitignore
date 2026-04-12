@@ -1,6 +1,3 @@
-world/playerdata/
-world/advancements/
-world/stats
 logs/
 libraries/
 usercache.json
@@ -9,3 +6,13 @@ banned-ips.json
 banned-players.json
 whitelist.json
 START.bat
+world/playerdata/
+world/advancements/
+world/stats/
+world/data/
+world/entities/
+world/poi/
+world/region/
+world/level.dat
+world/level.dat_old
+world/session.lock
