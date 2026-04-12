@@ -17,3 +17,6 @@ world/level.dat
 world/level.dat_old
 world/session.lock
 versions/
+server.jar
+server.properties
+eula.txt
